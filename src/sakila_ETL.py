@@ -136,7 +136,7 @@ def write_excel(df_customers, df_country, df_raw, excel_path=EXCEL_PATH):
     wb = load_workbook(excel_path)
     ws = wb["Dashboard"]
 
-    # Preparamos tabla para gráfico: tomamos top 10 países por revenue desde df_country
+    # Preparamos tabla para gráfico: aplicamos top 10 países por revenue desde df_country
     top_countries = df_country.groupby("country", as_index=False)["total_revenue"].sum()
     top_countries = top_countries.sort_values("total_revenue", ascending=False).head(10)
     # Escribir la tabla debajo de las métricas
