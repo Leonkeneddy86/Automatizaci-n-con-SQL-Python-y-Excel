@@ -1,2 +1,2 @@
-__version__ = "1.0.0"
-__author__ = "Data Analysis Team"
+# src/__init__.py
+__version__ = "0.1.0"
