@@ -73,9 +73,9 @@ python -m venv .venv
 
 | Sistema Operativo / Terminal | Activar Entorno                                      | Desactivar Entorno |
 | ---------------------------- | ---------------------------------------------------- | ------------------ |
-| Windows (PowerShell)         | `.\.venv\Scripts\Activate.ps1`                       | `deactivate`       |
-| Windows (CMD)                | `.\.venv\Scripts\activate.bat`                       | `deactivate`       |
-| Linux / macOS (Bash/Zsh)     | `source .venv/bin/activate` o `. .venv/bin/activate` | `deactivate`       |
+| Windows (PowerShell)         | `.venv\Scripts\Activate.ps1`                       | `deactivate`       |
+| Windows (CMD)                | `.venv\Scripts\activate.bat`                       | `deactivate`       |
+| Linux / macOS (Bash/Zsh)     | `source .venv/Scripts/activate`                    | `deactivate`       |
 
 ⚠️ **Nota para PowerShell en Windows:** Si aparece un error de ejecución de scripts, ejecuta solo la primera vez:
 
@@ -144,3 +144,11 @@ Al finalizar la ejecución, el script generará:
 * **python-dotenv:** Gestión segura de credenciales de conexión.
 
 ---
+
+## 🤝 Colaboradores
+
+| Nombre     | Rol                        | GitHub                                             |
+|-----------|----------------------------|--------------------------------------------------|
+| Joaquin   | Backend, Python y SQL       | [JoaquinMorenoFernandez](https://github.com/JoaquinMorenoFernandez) |
+| Natalia   | Excel y Tablas Dinámicas    | [nataliajoanna](https://github.com/nataliajoanna) |
+| Jonathan  | Documentación (README)      | [Leonkeneddy86](https://github.com/Leonkeneddy86) |
