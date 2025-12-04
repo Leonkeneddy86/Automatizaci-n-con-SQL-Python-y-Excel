@@ -150,5 +150,5 @@ Al finalizar la ejecución, el script generará:
 | Nombre     | Rol                        | GitHub                                             |
 |-----------|----------------------------|--------------------------------------------------|
 | Joaquin   | Backend, Python y SQL       | [JoaquinMorenoFernandez](https://github.com/JoaquinMorenoFernandez) |
-| Natalia   | Excel y Tablas Dinámicas    | [nataliajoanna](https://github.com/nataliajoanna) |
-| Jonathan  | Documentación (README)      | [Leonkeneddy86](https://github.com/Leonkeneddy86) |
+| Natalia   | Presentacion del proyecto    | [nataliajoanna](https://github.com/nataliajoanna) |
+| Jonathan  | Documentación (README) Excel y Tablas Dinámicas, y Dashboard    | [Leonkeneddy86](https://github.com/Leonkeneddy86) |
